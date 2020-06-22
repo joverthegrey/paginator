@@ -1,3 +1,4 @@
 /.idea/
 /paginator.iml
 composer.lock
+vendor/*
